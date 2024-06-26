@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephSaval
 - 👀 I’m interested in chess and programming ¯\\_(ツ)_/¯
-- 🌱 I’m currently learning how chess engines work :)
+- 🌱 I’m currently building a chess engine named Ronald :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: josephwsaval@gmail.com
 
